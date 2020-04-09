@@ -1,0 +1,8 @@
+#ipynb checkpoints
+.ipynb_checkpoints/
+
+#__pycache__
+__pycache__/
+
+#API keys
+api_keys.py
